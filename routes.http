@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST https://api-node-fekw.onrender.com/videos
 Content-Type: application/json
 
 
@@ -10,14 +10,14 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:3333/videos
+GET https://api-node-fekw.onrender.com/videos
 
 
 ###
 
 
 
-PUT http://localhost:3333/videos/a848636a-5c39-4d1e-8e49-d9997d1e387c
+PUT https://api-node-fekw.onrender.com/videos/a848636a-5c39-4d1e-8e49-d9997d1e387c
 Content-Type: application/json
 
 
@@ -30,4 +30,4 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:3333/videos/a848636a-5c39-4d1e-8e49-d9997d1e387c
+DELETE https://api-node-fekw.onrender.com/videos/a848636a-5c39-4d1e-8e49-d9997d1e387c
